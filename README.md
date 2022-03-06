@@ -1,2 +1,2 @@
 # codesamples
-Simple code samples
+Simple code samples, mostly/all from codecademy solutions
