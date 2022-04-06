@@ -138,15 +138,3 @@ while True:
     if not play_again():
         break
 print('Thanks for playing!')
-#print_board(the_board)
-#print(get_board_copy(the_board))
-#print(is_space_free(the_board,5))
-#print(is_winner(the_board,'X'))
-#print(get_player_move(the_board))
-#print(choose_random_move_from_list(the_board,[1,3,7,9]))
-#print(get_computer_move(the_board,'O'))
-#print(is_board_full(the_board))
-#print(is_space_free(the_board,5))
-#print(is_space_free(the_board,9))
-#print(is_space_free(the_board,4))
-#print(is_space_free(the_board,8))
