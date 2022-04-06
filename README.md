@@ -1,2 +1,2 @@
 # codesamples
-Simple code samples, mostly/all from codecademy solutions
+Simple code samples, initially from leetcode, some (tictactoe, hangman) original
